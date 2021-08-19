@@ -1,0 +1,106 @@
+.login{
+    position: absolute;
+    width: 33%;
+    height: 520px;
+    left: 830px;
+    top: 100px;
+    border: 1px groove #9DA4A4;
+    background-color: #ffffff;
+  }
+  
+  .logh1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 47px;
+    color: #000000;
+    opacity: 0.52;
+    text-align: center;
+    border-bottom: 1px groove #9DA4A4;
+    margin: 0px;
+    padding: 10px 0px;
+  }
+  
+  .logmail{
+    border: none;
+    border-bottom: 1px groove #9DA4A4;
+    margin-left: 10px;
+    margin-top: 0px;
+    width: 95%;
+    padding-top: 25px;
+    height: 35px;
+    padding-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+  }
+  input:focus{
+    outline: 0;
+  }
+  .logpass{
+    border: none;
+    border-bottom: 1px groove #9DA4A4;
+    margin-left: 10px;
+    margin-top: 0px;
+    width: 95%;
+    padding-top: 25px;
+    height: 35px;
+    padding-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+  }
+  .loglog{
+    width: 300px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 100px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #5A73B8;
+    color: #ffffff;
+  }
+  .logfor{
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+    color: #5A73B8;
+    border-bottom: 1px groove #9DA4A4;
+    margin-bottom: 0px;
+    padding-bottom: 28px;
+  }
+  .lognew{
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+    color: #A79D9D;
+    border-bottom: 1px groove #9DA4A4;
+    margin-bottom: 0px;
+    padding-bottom: 28px;
+  }
+  .logreg{
+    width: 300px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 100px;
+    cursor: pointer;
+    border-color: #0041F3;
+    color: #0041F3;
+    border-radius: 5px;
+  }
+  .logreg:hover{
+    background-color: #5A73B8;
+    color: white;
+}
+.stubody{
+    height: 550px;
+    width: auto;
+    background-color: #F7F7F7;
+}
